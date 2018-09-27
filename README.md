@@ -14,10 +14,10 @@ KindlegenBulkConverter supports wildcards and direct file paths. It will also co
 
 ### Examples
 
-KindlegenBulkConverter.exe c:/path/book.epub
-KindlegenBulkConverter.exe c:/path/book.epub c:/path/book2.epub
-KindlegenBulkConverter.exe "c:/path with spaces/book.epub"
-KindlegenBulkConverter.exe "c:/path with spaces/*.epub"
-KindlegenBulkConverter.exe c:/path/*.epub
-KindlegenBulkConverter.exe c:/path/*.epub c:/path/*.html
-KindlegenBulkConverter.exe c:/path/book1.epub c:/path/*.pdf
+`KindlegenBulkConverter.exe c:/path/book.epub`  
+`KindlegenBulkConverter.exe c:/path/book.epub c:/path/book2.epub`  
+`KindlegenBulkConverter.exe "c:/path with spaces/book.epub"`  
+`KindlegenBulkConverter.exe "c:/path with spaces/*.epub"`  
+`KindlegenBulkConverter.exe c:/path/*.epub`  
+`KindlegenBulkConverter.exe c:/path/*.epub c:/path/*.html`  
+`KindlegenBulkConverter.exe c:/path/book1.epub c:/path/*.pdf`  
