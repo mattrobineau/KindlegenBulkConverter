@@ -9,7 +9,7 @@ Bulk convert files to .mobi using kindlegen
 
 ## Arguments
 
-KindlegenBulkConverter supports wildcards and direct file paths. It will also convert any book formats supported by kindlegen 
+KindlegenBulkConverter supports wildcards and complete file paths. It will also convert any book formats supported by kindlegen 
 (see their documentation)
 
 ### Examples
