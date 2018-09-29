@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mattrobineau/KindlegenBulkConverter.svg?branch=master)](https://travis-ci.org/mattrobineau/KindlegenBulkConverter)
+
 # KindlegenBulkConverter
 Bulk convert files to .mobi using kindlegen
 
