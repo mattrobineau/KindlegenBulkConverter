@@ -1,0 +1,4 @@
+language: csharp
+solution: KindlegenBulkConverter.sln
+mono: none
+dotnet: 2.1
